@@ -1,0 +1,66 @@
+.hello{color: rgb(255, 255, 255);
+text-shadow: 0px 0px 6px 3px;
+display: inline-block;
+padding-left: 100px;
+padding-top: 50px;
+font-size: 45px;}
+header{background:url(https://i.imgur.com/lQqkHUL.gif);
+width: 1250px;
+height: 200px;}
+body{margin: 0px 0px;
+    font-family: 'Rowdies', cursive;}
+main{
+width: 1250px;
+height: 2200px;
+background-image:url(https://gallery.pix2d.com/Image?id=d4182909-d1de-46cd-b172-f560e6da28c3&type=png&stuff=pixelartstudio_export&author=unknown%20athor);
+background-size: 200px 200px;}
+main:hover{
+    background-image: url(https://sun9-40.userapi.com/impf/C-mKAGcYCieZI36MSi13IU_0XhMYjWS6agwHUQ/7oRXfp8yp2M.jpg?size=604x604&quality=96&sign=021eaac4c9da26dfc4fffd5026ba86db&type=album);
+}
+footer{
+    background-image: url(https://phonoteka.org/uploads/posts/2021-04/thumbs/1618545232_4-p-fon-sonik-4.jpg);
+    width: 1250px;
+    height: 400px;
+}
+.box{text-align: center;
+padding-top: 10px;
+color: rgb(0, 223, 67);
+text-shadow: 1px 1px 2px black, 0 0 1em rgb(16, 3, 63);
+font-size: 40px;}
+.sega{color: rgb(0, 89, 255);
+}
+.hard{color: silver;}
+.contra{background-image: url(https://avatars.mds.yandex.net/get-zen_doc/1712971/pub_5e29a2043d5f6900ad428077_5e29b878027a1500b09d3416/orig);
+width: 600px;
+height: 370px;
+border:solid 3px darkgreen;
+margin-left: 30px;
+float: left;}
+h3{text-align: center;
+    color: rgb(0, 223, 67);
+    text-shadow: 1px 1px 2px black, 0 0 1em rgb(16, 3, 63);
+    font-size: 40px;}
+P{font-size: 35px;
+margin: 20px 20px;
+color: rgb(0, 223, 67);
+text-shadow: 1px 1px 2px black, 0 0 1em rgb(16, 3, 63);
+text-indent: 1.5em;}
+.combat{color: red;}
+.mortal{
+    border:solid 3px darkgreen;
+    background-image:url(https://thumbs.gfycat.com/AdmiredTalkativeBullfrog-size_restricted.gif);
+width: 400px;
+height: 250px;
+margin: 30px;
+float: left;}
+.sonic{color: rgb(0, 89, 255);}
+.hegehog{background-image: url(https://i.gifer.com/39s1.gif);
+width: 500px;
+height: 400px;
+margin: 30px;
+float: left;}
+.over{color: white;
+font-size: 80px;
+padding-top: 125px;
+text-align: center;
+}
